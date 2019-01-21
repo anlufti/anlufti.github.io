@@ -6,5 +6,3 @@ image: assets/images/oxbowbend.jpg
 nav-menu: true
 
 ---
-
-jkndfaskmflaskmfsklfkj
