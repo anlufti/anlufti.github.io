@@ -1,0 +1,10 @@
+---
+layout: blog
+title: Photography & Blog
+description: My newest and most serious hobby. Started with my (ongoing) world-wide trip. I share my favorites here. Eventually, you might find posts about other subjects too.
+image: assets/images/oxbowbend.jpg
+nav-menu: true
+
+---
+
+jkndfaskmflaskmfsklfkj
